@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="empty_view_title_text">are bhai, yahan to sannata pasra hua hai</string>
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Items</string>
+    <string name="item_price">Price:</string>
+    <string name="quantity">Quantity</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_insert_item_failed">Error with saving item</string>
+    <string name="editor_insert_item_successful">Item saved</string>
+    <string name="editor_update_item_failed">Error with updating item</string>
+    <string name="editor_update_item_successful">Item updated</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_item_failed">Error with deleting item</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+</resources>
